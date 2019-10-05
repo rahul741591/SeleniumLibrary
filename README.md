@@ -1,2 +1,2 @@
 # GitRepoTest
-Learnin git
+Learning git
